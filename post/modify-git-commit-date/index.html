@@ -4,7 +4,7 @@
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="ie=edge">
 <meta name=author content="vnum">
-<meta name=description content="当需要修改`git commit`时间，可以通过以下方法。 修改本地 commit 时间 git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; 修改之前某次 commit 时间，先git log 获取 commit id git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; -C commit-id">
+<meta name=description content="当需要修改git commit时间，可以通过以下方法。 修改本地 commit 时间 git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; 修改之前某次 commit 时间，先git log 获取 commit id git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; -C commit-id">
 <link rel=icon href=/favicon.ico>
 <meta name=keywords content=" hugo  latex  theme ">
 <script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']],processEscapes:!0,processEnvironments:!0},options:{skipHtmlTags:['script','noscript','style','textarea','pre']}}</script>
@@ -16,7 +16,7 @@
 <link media=screen rel=stylesheet href=https://blog.gocowu.com/css/highlight.css>
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Modify Git Commit Date">
-<meta name=twitter:description content="当需要修改`git commit`时间，可以通过以下方法。 修改本地 commit 时间 git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; 修改之前某次 commit 时间，先git log 获取 commit id git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; -C commit-id">
+<meta name=twitter:description content="当需要修改git commit时间，可以通过以下方法。 修改本地 commit 时间 git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; 修改之前某次 commit 时间，先git log 获取 commit id git commit --amend --date=&#34;2021-08-02T20:38:42+0800&#34; -C commit-id">
 <link rel=stylesheet href=https://blog.gocowu.com/css/single.css>
 </head>
 <body>
@@ -37,11 +37,11 @@
 <main id=main class=post>
 <h1>Modify Git Commit Date</h1>
 <div class=content>
-<br>
-当需要修改`git commit`时间，可以通过以下方法。
+<hr>
+<p>当需要修改<code>git commit</code>时间，可以通过以下方法。</p>
 <ol>
 <li>修改本地 commit 时间<br>
-<code>git commit --amend --date="2021-08-02T20:38:42+0800"</code><br></li>
+<code>git commit --amend --date="2021-08-02T20:38:42+0800"</code></li>
 <li>修改之前某次 commit 时间，先<code>git log</code> 获取 commit id<br>
 <code>git commit --amend --date="2021-08-02T20:38:42+0800" -C commit-id</code></li>
 </ol>
