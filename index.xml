@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vnum Site</title><link>https://blog.gocowu.com/</link><description>Recent content on Vnum Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Aug 2021 20:38:42 +0800</lastBuildDate><atom:link href="https://blog.gocowu.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Modify Git Commit Date</title><link>https://blog.gocowu.com/post/modify-git-commit-date/</link><pubDate>Mon, 02 Aug 2021 20:38:42 +0800</pubDate><guid>https://blog.gocowu.com/post/modify-git-commit-date/</guid><description>&lt;hr>
-&lt;p>当需要修改&lt;code>git commit&lt;/code>时间，可以通过以下方法。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vnum Site</title><link>https://blog.gocowu.com/</link><description>Recent content on Vnum Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Aug 2021 20:38:42 +0800</lastBuildDate><atom:link href="https://blog.gocowu.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Modify Git Commit Date</title><link>https://blog.gocowu.com/post/modify-git-commit-date/</link><pubDate>Mon, 02 Aug 2021 20:38:42 +0800</pubDate><guid>https://blog.gocowu.com/post/modify-git-commit-date/</guid><description>&lt;p>当需要修改&lt;code>git commit&lt;/code>时间，可以通过以下方法。&lt;/p>
 &lt;ol>
 &lt;li>修改本地 commit 时间&lt;br>
 &lt;code>git commit --amend --date=&amp;quot;2021-08-02T20:38:42+0800&amp;quot;&lt;/code>&lt;/li>
 &lt;li>修改之前某次 commit 时间，先&lt;code>git log&lt;/code> 获取 commit id&lt;br>
 &lt;code>git commit --amend --date=&amp;quot;2021-08-02T20:38:42+0800&amp;quot; -C commit-id&lt;/code>&lt;/li>
-&lt;/ol></description></item><item><title>打个样儿</title><link>https://blog.gocowu.com/post/my-first-post/</link><pubDate>Sat, 13 Mar 2021 22:27:12 +0800</pubDate><guid>https://blog.gocowu.com/post/my-first-post/</guid><description>&lt;br>
-时间太快，快到恍惚。&lt;br>
+&lt;/ol></description></item><item><title>打个样儿</title><link>https://blog.gocowu.com/post/my-first-post/</link><pubDate>Sat, 13 Mar 2021 22:27:12 +0800</pubDate><guid>https://blog.gocowu.com/post/my-first-post/</guid><description>&lt;p>时间太快，快到恍惚。&lt;br>
 上次想起写点东西还是在16年。&lt;br>
-从大学毕业到工作3年，时间不短，但回想起来好像断片。&lt;br>
+从大学毕业到工作3年，时间不短，但回想起来好像断片。&lt;/p>
 &lt;h1 id="个人">个人&lt;/h1>
 &lt;p>大学毕业之后通过公司内部调岗从大连到了上海，自此开始了魔都一人游。&lt;br>
 一个人生活完全没有想象的寂寞，或许是因为网络，也或许是因为忙碌。&lt;br>
-这几年时间拖延症状好了不少，好多书没看完，很多事没做好，但也看完很多，做好不少。&lt;br>&lt;/p>
+这几年时间拖延症状好了不少，好多书没看完，很多事没做好，但也看完很多，做好不少。&lt;/p>
 &lt;h1 id="工作">工作&lt;/h1>
 &lt;p>毕业至今还没有跳过槽，几年如一日都在对着同一座屎山雕花，活干了不少，也干得很好。&lt;br>
 最近有个花了一年多时间去开发的大家伙上线了，很幸运，0故障，带来了很多成就感。&lt;br>
@@ -24,4 +22,4 @@
 在末期写了单测，对异常处理的理解深入了不少。&lt;br>
 我扮演了很多角色，积累了很多不同领域的知识和经验。&lt;br>
 这场马拉松让我有机会把知识变成经验，让我获得很多正反馈。&lt;br>
-每一个里程碑都让我更有动力，挑战，成功，继续挑战，让我感到快乐。&lt;br>&lt;/p></description></item></channel></rss>
+每一个里程碑都让我更有动力，挑战，成功，继续挑战，让我感到快乐。&lt;/p></description></item></channel></rss>
