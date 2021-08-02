@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vnum Site</title><link>https://blog.gocowu.com/</link><description>Recent content on Vnum Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 13 Mar 2021 22:27:12 +0800</lastBuildDate><atom:link href="https://blog.gocowu.com/index.xml" rel="self" type="application/rss+xml"/><item><title>打个样儿</title><link>https://blog.gocowu.com/post/my-first-post/</link><pubDate>Sat, 13 Mar 2021 22:27:12 +0800</pubDate><guid>https://blog.gocowu.com/post/my-first-post/</guid><description>&lt;p>时间太快，快到恍惚。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vnum Site</title><link>https://blog.gocowu.com/</link><description>Recent content on Vnum Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Aug 2021 20:38:42 +0800</lastBuildDate><atom:link href="https://blog.gocowu.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Modify Git Commit Date</title><link>https://blog.gocowu.com/post/modify-git-commit-date/</link><pubDate>Mon, 02 Aug 2021 20:38:42 +0800</pubDate><guid>https://blog.gocowu.com/post/modify-git-commit-date/</guid><description>&lt;p>当需要修改&lt;code>git commit&lt;/code>时间，可以通过以下方法。&lt;/p>
+&lt;ol>
+&lt;li>修改本地 commit 时间&lt;br/>
+&lt;code>git commit --amend --date=&amp;quot;2021-08-02T20:38:42+0800&amp;quot;&lt;/code>&lt;/li>
+&lt;li>修改之前某次 commit 时间，先&lt;code>git log&lt;/code> 获取 commit id&lt;br/>
+&lt;code>git commit --amend --date=&amp;quot;2021-08-02T20:38:42+0800&amp;quot; -C commit-id&lt;/code>&lt;/li>
+&lt;/ol></description></item><item><title>打个样儿</title><link>https://blog.gocowu.com/post/my-first-post/</link><pubDate>Sat, 13 Mar 2021 22:27:12 +0800</pubDate><guid>https://blog.gocowu.com/post/my-first-post/</guid><description>&lt;p>时间太快，快到恍惚。&lt;br>
 上次想起写点东西还是在16年。&lt;br>
 从大学毕业到工作3年，时间不短，但回想起来好像断片。&lt;br>&lt;/p>
 &lt;h1 id="个人">个人&lt;/h1>
