@@ -4,22 +4,4 @@
 &lt;code>git commit --amend --date=&amp;quot;2021-08-02T20:38:42+0800&amp;quot;&lt;/code>&lt;/li>
 &lt;li>修改之前某次 commit 时间，先&lt;code>git log&lt;/code> 获取 commit id&lt;br>
 &lt;code>git commit --amend --date=&amp;quot;2021-08-02T20:38:42+0800&amp;quot; -C commit-id&lt;/code>&lt;/li>
-&lt;/ol></description></item><item><title>打个样儿</title><link>https://blog.gocowu.com/post/my-first-post/</link><pubDate>Sat, 13 Mar 2021 22:27:12 +0800</pubDate><guid>https://blog.gocowu.com/post/my-first-post/</guid><description>&lt;p>时间太快，快到恍惚。&lt;br>
-上次想起写点东西还是在16年。&lt;br>
-从大学毕业到工作3年，时间不短，但回想起来好像断片。&lt;/p>
-&lt;h1 id="个人">个人&lt;/h1>
-&lt;p>大学毕业之后通过公司内部调岗从大连到了上海，自此开始了魔都一人游。&lt;br>
-一个人生活完全没有想象的寂寞，或许是因为网络，也或许是因为忙碌。&lt;br>
-这几年时间拖延症状好了不少，好多书没看完，很多事没做好，但也看完很多，做好不少。&lt;/p>
-&lt;h1 id="工作">工作&lt;/h1>
-&lt;p>毕业至今还没有跳过槽，几年如一日都在对着同一座屎山雕花，活干了不少，也干得很好。&lt;br>
-最近有个花了一年多时间去开发的大家伙上线了，很幸运，0故障，带来了很多成就感。&lt;br>
-这是个花尽心血的项目，成果是一次大型“偷梁换柱”&lt;br>
-重写一根“黑箱承重柱”——业务流程控制中间件，没有源码，没有文档，没有开发工具。&lt;br>
-但还是很幸运，我有时间，靠猜，靠问，靠试，过程很痛苦，结果很美好。&lt;br>
-学到很多，在项目前期学到了架构，数据库设计，接口设计；&lt;br>
-在中期手写了几个工具类，用上了不少书上看来知识，也学到很多业务知识；&lt;br>
-在末期写了单测，对异常处理的理解深入了不少。&lt;br>
-我扮演了很多角色，积累了很多不同领域的知识和经验。&lt;br>
-这场马拉松让我有机会把知识变成经验，让我获得很多正反馈。&lt;br>
-每一个里程碑都让我更有动力，挑战，成功，继续挑战，让我感到快乐。&lt;/p></description></item></channel></rss>
+&lt;/ol></description></item></channel></rss>
